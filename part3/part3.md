@@ -1,14 +1,13 @@
-Debugging
+#Debugging
 
 What was the bug?
-
 The bug was that instead of adding num1 and num2, javascript treated them like strings and concatenated them. 
 
 How would you fix it?
 
 You can specify that num1 and num2 are numbers by doing Number(num1) + Number(num2);
 
-Network Tab
+#Network Tab
 1) citylots.json
 2) part2.js:2
 3) 11.7MB
